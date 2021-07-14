@@ -7,6 +7,12 @@ import javax.swing.border.EmptyBorder;
 import java.awt.*;
 import java.awt.event.ActionListener;
 
+/**
+ * U.
+ * @version 1
+ * @author Grupo
+ */
+
 public class ContainerPanel extends JPanel {
 
     private TreePanel treePanel;
